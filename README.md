@@ -23,7 +23,7 @@ To create some "audible" output you can try the -declaim option:
 
 This will create a .wav file which is playable on any computer:
 
-![Please reload the page to see the image or go to the extras folder to see the screenshot.](https://github.com/VirenMohindra/Fuckboi/extras/audible.png "Supports Audible Input")
+![Please reload the page to see the image or go to the extras folder to see the screenshot.](https://github.com/VirenMohindra/Fuckboi/blob/master/extras/audible.png "Supports Audible Input")
 
 ##Brief overview of the keywords
 
@@ -85,6 +85,8 @@ Linux folder
 
 Windows folder
 %APPDATA%\Sublime Text v\Packages\Fuckboi
+
+![Please reload the page to see the image or go to the extras folder to see the screenshot.](https://github.com/VirenMohindra/Fuckboi/blob/master/extras/syntax_highlighting.png "Syntax Highlighting FTW!")
 
 ##Limitations
 1. Variables can only be 16bit signed integers.
