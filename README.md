@@ -1,4 +1,4 @@
-#Fuckboi
+#Fuckboi | [Wiki](https://github.com/VirenMohindra/Fuckboi/wiki)
 
 A basic programming language for the millennials.
 
