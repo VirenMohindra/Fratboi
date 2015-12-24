@@ -5,10 +5,7 @@ A basic programming language for the millennials.
 ##Introduction
 2015 has been quite a great year, but it has also been the sudden, and not so great rise of the Fuckbois. This programming language is dedicated to those *specific people* who are just Fuckbois by nature.
 
-##Motivation and Inspiration
-Mostly boredom. Heavily inspired by [ArnoldC](https://github.com/lhartikk/ArnoldC) - the Arnold Schwarzenegger programming language.
-
-## Hello World
+##Hello World
 	NETFLIX
 	IS IT TOO LATE NOW TO SAY SORRY? "Hello World"
 	CHILL
@@ -24,9 +21,9 @@ To create some "audible" output you can try the -declaim option:
 
 	java -jar Fuckboi.jar -declaim hello.fuckboi
 
-This will create a .wav file which is playable on any computer.
+This will create a .wav file which is playable on any computer:
 
-ADD SCREENSHOT HERE
+![Please reload the page to see the image or go to the extras folder to see the screenshot.](https://github.com/VirenMohindra/Fuckboi/extras/audible.png "Supports Audible Input")
 
 ##Brief overview of the keywords
 
@@ -67,6 +64,9 @@ EndMethodDeclaration            | `SRY BBY`
 CallMethod                      | `SNAP`
 AssignVariableFromMethodCall    | `GET YOUR ASS HERE`
 ParseError                      | `Nope, not my problem.`
+
+##Motivation and Inspiration
+Mostly boredom. Heavily inspired by [ArnoldC](https://github.com/lhartikk/ArnoldC) - the Arnold Schwarzenegger programming language.
 
 ##Features
 1. file extension of .fuckboi
