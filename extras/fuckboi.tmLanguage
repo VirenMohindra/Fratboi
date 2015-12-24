@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>fuckboi</string>
+	</array>
+	<key>name</key>
+	<string>Fuckboi</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>YO|CHILL|HEY|BYE|TINDER|ADD ME|YOU LIFT?|SRY BBY</string>
+			<key>name</key>
+			<string>keyword.control</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>IS IT TOO LATE NOW TO SAY SORRY?|B'FUL|DIVIDE AND CONQUER|MULTIPLY|DON'T DELETE ME|GET YOUR ASS HEE|SNAP|DON'T LEAVE ME|DAMN GIRL|KNOCK KNOCK</string>
+			<key>name</key>
+			<string>keyword.control</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>ASL?</string>
+			<key>name</key>
+			<string>constant.numeric</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>@I LIED|@FINALLY THE TRUTH</string>
+			<key>name</key>
+			<string>support.constant</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>LISTEN TO ME VERY CAREFULLY|NETFLIX</string>
+			<key>name</key>
+			<string>entity.name.function</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>STICK AROUND|CHILL|PLEASE?|YOU HAVE NO RESPECT FOR ME|BAE</string>
+			<key>name</key>
+			<string>storage.type</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>MMHMM|SMILE MORE|LONG TIME...</string>
+			<key>name</key>
+			<string>variable.parameter</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>".*"</string>
+			<key>name</key>
+			<string>string.quoted.double</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\s[0-9]+</string>
+			<key>name</key>
+			<string>constant.numeric</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.fuckboi</string>
+	<key>uuid</key>
+	<string>6f5f460e-5ab0-4ce2-8cb7-0cafea6c46c9</string>
+</dict>
+</plist>
