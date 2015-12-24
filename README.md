@@ -66,7 +66,7 @@ AssignVariableFromMethodCall    | `GET YOUR ASS HERE`
 ParseError                      | `Nope, not my problem.`
 
 ##Motivation and Inspiration
-Mostly boredom. Heavily inspired by [ArnoldC](https://github.com/lhartikk/ArnoldC) - the Arnold Schwarzenegger programming language.
+Mostly boredom. Derived from [ArnoldC](https://github.com/lhartikk/ArnoldC) - the Arnold Schwarzenegger programming language.
 
 ##Features
 1. file extension of .fuckboi
